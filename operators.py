@@ -9,7 +9,7 @@ print("Multiplication = ",a*b)
 print("Division = ",a/b)
 print("Power = ",a**b)
 print("Floor division = ",a//b)
-print("Addition = ",a+b,'\n')
+print("Modulus = ",a%b,'\n')
 
 # ASSIGNMENT OPERATORS
 a = 56
